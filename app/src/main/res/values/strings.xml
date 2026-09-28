@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Obsidis</string>
+    <string name="accessibility_service_description">Obsidis, açık olan uygulamanın ekranındaki düğmeleri okuyarak sana adım adım rehberlik eder. Hiçbir veri kaydetmez veya dışarı göndermez, yalnızca ekran öğelerini okur.</string>
+</resources>
